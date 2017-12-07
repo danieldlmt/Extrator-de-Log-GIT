@@ -1,0 +1,1 @@
+# Extrator-de-Log-GIT
